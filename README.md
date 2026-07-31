@@ -7,4 +7,3 @@ Este repositorio fue creado para aprender Git y GitHub.
 - Comprender el control de versiones.
 - Aprender a crear commits.
 - Publicar proyectos en GitHub.
-- 
