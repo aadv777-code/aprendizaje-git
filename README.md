@@ -1,3 +1,7 @@
+## Clonación
+
+Este repositorio fue clonado desde GitHub.
+
 # Aprendizaje de Git
 
 Este repositorio fue creado para aprender Git y GitHub.
